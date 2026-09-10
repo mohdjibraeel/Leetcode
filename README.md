@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdjibraeel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/mohdjibraeel/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
