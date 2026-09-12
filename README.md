@@ -14,14 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mohdjibraeel/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdjibraeel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mohdjibraeel/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdjibraeel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mohdjibraeel/Leetcode/tree/master/0257-binary-tree-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/mohdjibraeel/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
@@ -43,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/mohdjibraeel/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mohdjibraeel/Leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mohdjibraeel/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
