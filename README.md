@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/mohdjibraeel/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/mohdjibraeel/Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
