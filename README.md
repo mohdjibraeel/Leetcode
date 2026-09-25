@@ -66,5 +66,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1341-movie-rating](https://github.com/mohdjibraeel/Leetcode/tree/master/1341-movie-rating) |
 | [1934-confirmation-rate](https://github.com/mohdjibraeel/Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
